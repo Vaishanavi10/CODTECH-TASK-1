@@ -15,4 +15,4 @@
  
 **Task: CLOUD STORAGE SETUP**
 
-## Overview of the Projrct
+## Overview of the Project
