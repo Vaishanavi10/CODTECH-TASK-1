@@ -1,6 +1,6 @@
 # CODTECH-TASK-1
 
-**Name: VAISHANAVI RAJGOPAL SITALGERI
+**Nam**e: VAISHANAVI RAJGOPAL SITALGERI
 Company: CODTECH IT SOLUTIONS
 ID: CT4MPZK
 Domain: CLOUD COMPUTING
@@ -8,7 +8,7 @@ Duration: January to May 2025
 Mentor: Neela Santhosh Kumar 
  
 Task: CLOUD STORAGE SETUP
-**
+
 Step 1: Create an S3 Bucket
 Sign in to AWS Console.
 Open S3 from AWS services.
