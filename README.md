@@ -54,31 +54,31 @@ Task Highlights
 
 Key Learnings 
 
-AWS S3 Management 
+**AWS S3 Management** 
 
 Understood the fundamentals of AWS S3 buckets, objects, and storage classes.
 
 Learned how to configure S3 settings for security, cost optimization, and efficiency.
 
-File Upload & Access
+**Upload & Access**
 
 Explored multiple ways to upload and access files, including AWS CLI and S3 URLs.
 
 Tested file access with different permission settings.
 
-Access Control & Security 
+**Access Control & Security** 
 
 Gained hands-on experience with bucket policies and IAM roles.
 
 Ensured secure access by restricting unnecessary public access.
 
-Automation with CLI 
+**Automation with CLI** 
 
 Learned how to use AWS CLI commands to automate S3 operations.
 
 Created a script (bucket_setup.sh) for bucket creation and file uploads.
 
-GitHub Documentation
+**GitHub Documentation**
 
 Maintained all project files in a GitHub repository for easy access and version control.
 
