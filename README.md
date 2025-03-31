@@ -22,24 +22,28 @@
 
 Task Highlights
 
- 1. Static Website Development
- 2. 
-    Built a static website using HTML, CSS, and JavaScript.
-    
-    Ensured the website works without a backend server.
+1. Static Website Development
+Built a static website using HTML, CSS, and JavaScript.
 
- 3. Deploy on AWS S3
-    Created an S3 bucket and enabled static website hosting.
-    Uploaded website files (HTML, CSS, JS, images) to S3.
+Ensured the website works without a backend server.
 
-4. Set Permissions & Access Control
-   Updated S3 bucket policy to allow public access to the website.
-  Used IAM roles to manage access securely.
+2. Deploy on AWS S3
+Created an S3 bucket and enabled static website hosting.
 
- 5. Optimize Performance
-   Integrated Amazon CloudFront (CDN) for faster content delivery.
-   Enabled caching and compression for improved loading speed.
+Uploaded website files (HTML, CSS, JS, images) to S3.
 
- 6. Test & Launch the Website
-    Verified website functionality using the S3 bucket URL.
-    Tested on different devices and browsers to ensure a smooth user experience.
+3. Set Permissions & Access Control
+Updated S3 bucket policy to allow public access to the website.
+
+Used IAM roles to manage access securely.
+
+4. Optimize Performance
+Integrated Amazon CloudFront (CDN) for faster content delivery.
+
+Enabled caching and compression for improved loading speed.
+
+5. Test & Launch the Website
+Verified website functionality using the S3 bucket URL.
+
+Tested on different devices and browsers to ensure a smooth user experience.
+
